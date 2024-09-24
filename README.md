@@ -1,4 +1,4 @@
-# optimal_deflation_varimax
+# Optimal_Deflation_Varimax
 
 This deposite is the implementation of experiment results in our paper [Optimal vintage factor analysis with deflation varimax]( https://arxiv.org/abs/2310.10545).
 
